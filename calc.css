@@ -1,5 +1,10 @@
 input{
-    border: 2px;
-    box-shadow: inset,2px,#222222;
+    border:block 2px;
+    box-shadow: inset 2px #222222;
+
+}
+#errornb1,#errornb2,#errorresult{
+    display: none;
+    color: red;
 
 }
